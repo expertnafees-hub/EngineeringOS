@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: engineeringos
+Version: 0.1.0
+Summary: EngineeringOS CLI
+Requires-Python: >=3.13
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: typer
+Requires-Dist: rich
+Requires-Dist: pyyaml
+Requires-Dist: jinja2
+Dynamic: license-file

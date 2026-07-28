@@ -1,0 +1,15 @@
+from rich import print
+
+app = typer.Typer(help="EngineeringOS CLI")
+
+
+@app.command()
+def init():
+    """Initialize EngineeringOS."""
+    print("[bold green]🚀 EngineeringOS initialized successfully![/bold green]")
+
+
+@app.command()
+def hello():
+    """Test command."""
+    print("[bold cyan]Hello from EngineeringOS![/bold cyan]")
