@@ -1,4 +1,10 @@
-# Python
+# Python packaging
+*.egg-info/
+.eggs/
+
+# Bytecode
+__pycache__/
+*.pyc# Python
 __pycache__/
 *.py[cod]
 *.so
