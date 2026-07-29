@@ -11,3 +11,8 @@ src/engineeringos.egg-info/requires.txt
 src/engineeringos.egg-info/top_level.txt
 src/engineeringos/commands/__init__.py
 src/engineeringos/commands/init.py
+src/engineeringos/commands/note.py
+src/engineeringos/core/__init__.py
+src/engineeringos/core/vault.py
+src/engineeringos/services/__init__.py
+src/engineeringos/services/note_service.py
